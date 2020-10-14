@@ -1,3 +1,5 @@
+## README.md created by [@DiegoVictor](https://github.com/DiegoVictor)
+
 # [API] Happy
 [![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/DiegoVictor/happy-api/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
@@ -85,25 +87,6 @@ Request body:
 }
 ```
 
-<h2>README bonitão criado pelo @DiegoVictor</h2>
-
-<h2>📱 Minhas redes sociais:</h2>
-
-<p align="center">
-   <a href="https://github.com/thallesyasmim" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
-    
-      
-  <a href="https://www.facebook.com/thalles.gabriel.1690" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
-    
-    
-  <a href="mailto:ithallesgabriel1307@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a> 
-  
-  <a href="https://api.whatsapp.com/send?phone=5511970670088" target="_blank" >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
- </p>
 
 
-<h4>Feito com ❤ por Thalles Gabriel 🔥 </h4>
+
