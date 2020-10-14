@@ -25,7 +25,6 @@ Or:
 ```
 $ npm install
 ```
-> Was installed and configured the [`eslint`](https://eslint.org/) and [`prettier`](https://prettier.io/) to keep the code clean and patterned.
 
 ## Configuring
 The application use just one databases: [SQLite](https://www.sqlite.org/index.html).
@@ -45,14 +44,6 @@ Or:
 $ yarn typeorm migration:run
 ```
 > See more information on [TypeORM Migrations](https://typeorm.io/#/migrations).
-
-### .env
-In this file you may configure your app's port and a url. Rename the `.env.example` in the root directory to `.env` then just update with your settings.
-
-|key|description|default
-|---|---|---
-|APP_PORT|Port number where the app will run.|`3333`
-|APP_URL|App's url with version (v1).|`http://localhost:3333/v1`
 
 # Usage
 To start up the app run:
